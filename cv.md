@@ -20,7 +20,7 @@ Linkedin: linkedin.com/in/olha-kudinova-167216b4 <br>
 - VS Code, IntelliJ IDEA
 - SQL Basics
 
-## Code Example
+## Code Example 
 
 **String repeat KATA from CODEWARS**: 
 _Write a function that accepts an integer __n__ and a string __s__ as parameters, and returns a string of __s__ repeated exactly __n__ times_. <br>
